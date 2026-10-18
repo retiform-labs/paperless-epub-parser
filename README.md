@@ -264,4 +264,4 @@ If paperless-epub-parser is useful to you, consider supporting its continued dev
 
 ---
 
-Crafted with ❤️ by [Sage Labs](https://sagelabs.dev)
+Crafted with ❤️ by [Retiform Labs](https://retiform.dev)
