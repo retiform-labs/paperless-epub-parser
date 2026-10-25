@@ -9,7 +9,7 @@ description = "EPUB parser plugin for Paperless-ngx — text extraction for full
 readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
-authors = [{ name = "David Newman", email = "david@retiform.dev" }]
+authors = [{ name = "Guan", email = "guan@retiform.dev" }]
 keywords = ["paperless-ngx", "epub", "parser", "plugin"]
 classifiers = [
     "Development Status :: 5 - Production/Stable",
